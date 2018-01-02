@@ -1,0 +1,90 @@
+/*Se estiliza cabezera y sección central*/
+#in-head{
+    background-color: rgb(51, 135, 231);
+    height:2.8em ;
+}
+
+/*Estilizando iconos de navegacion de la cabezera*/
+
+ul {
+    list-style: none;
+}
+
+li {
+    float: left;
+    margin-right: 1em;
+    font-size: 25px;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+li:hover {
+    opacity: 0.5;
+}
+
+
+#central-item{
+    background-color: rgb(83, 158, 243);
+    padding-bottom: 50em;
+}
+
+.btn{
+    font-size: 16px;
+}
+
+#trello{
+    font-size: 18px;
+}
+
+#logo:hover{
+    opacity:0.5;
+}
+
+/*Se estilizan formularios y sus componentes*/
+#ad-btn{
+    margin-left: 1em;
+}
+
+
+#text{
+    background-color: #E1E3E6;
+    border: 1px solid rgb(104, 102, 102);
+    margin-left: 0.5em;
+}
+
+#save-btn{
+    margin-left: 0.5em;
+
+}
+
+.panel-heading {
+    height:2em ;
+    
+}
+
+/*Estilizando paneles*/
+#form-one p{
+    font-size: 18px;
+    font-weight: bolder ;
+}
+
+.panel-body{
+    height: 0.5em;
+    margin-bottom: 1em;
+}
+
+
+ 
+   
+
+    
+
+
+
+
+
+
+
+
+
